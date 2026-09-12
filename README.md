@@ -29,6 +29,7 @@ Data Modeling: Developing fact and dimension tables optimized for analytical que
 Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
 
+
 🚀 Project Requirements
 
 Building the Data Warehouse (Data Engineering)
@@ -50,7 +51,10 @@ Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 
+
+
 BI: Analytics & Reporting (Data Analysis)
+
 
 Objective
 
